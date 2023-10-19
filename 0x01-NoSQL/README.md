@@ -1,9 +1,8 @@
 0x01. NoSQL
 ===========
 
-Back-endNoSQLMongoDB
+Back-end NoSQLMongoDB
 
--   By Emmanuel Turlay, Staff Software Engineer at Cruise and Guillaume, CTO at Holberton school
 -   Weight: 1
 
 Resources
